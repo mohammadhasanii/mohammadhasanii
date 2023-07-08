@@ -41,3 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadmahdihasani&show_icons=true&locale=en" alt="mohammadmahdihasani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadmahdihasani&" alt="mohammadmahdihasani" /></p>
+<h3 align="left">Wakatime Activity:</h3>
+<img align="center" src="https://wakatime.com/share/@Mohammadhasani/3e521fda-4252-4257-bfdf-94b6c5aaf3a3.svg" alt="mohammadmahdihasani" />
+
+
+
