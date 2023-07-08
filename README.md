@@ -1,6 +1,6 @@
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammadmahdihasani&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohammadmahdihasani&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadmahdihasani&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmahdihasani&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
