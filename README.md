@@ -42,3 +42,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhasanii&show_icons=true&locale=en" alt="mohammadhasanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanii&" alt="mohammadhasanii" /></p>
+
+
+<h3 align="left"><a href="https://wakatime.com/@Mohammadhasani" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="mohammadhasanii" height="30" width="30" /></a>
+ WakaTime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="mohammadhasanii" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@Mohammadhasani/f16dee1c-56ec-4081-8694-b82fbef3df00.svg" alt="mohammadhasanii" />
+
+
