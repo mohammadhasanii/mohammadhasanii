@@ -42,10 +42,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadmahdihasani&" alt="mohammadmahdihasani" /></p>
 
-<h3 align="left"> <a href="https://wakatime.com/@Mohammadhasani" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="code_mohammad" height="30" width="30" /></a> Wakatime Activity: 
+<h3 align="left"> <a href="https://wakatime.com/@Mohammadhasani" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="code_mohammad" height="30" width="30" /></a> Wakatime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="mohammadmahdihasani" />
+
 </h3>
 
 <img align="center" src="https://wakatime.com/share/@Mohammadhasani/3e521fda-4252-4257-bfdf-94b6c5aaf3a3.svg" alt="mohammadmahdihasani" />
+
 
 
 
