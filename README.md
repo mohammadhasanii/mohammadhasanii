@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Betterfeel**
 
-- 🤝 I’m looking for help with **MigMigo**
+- 🤝 I’m looking for help with **RavensAi**
 
 - 👨‍💻 All of my projects are available at [github.com/mohammadmahdihasani](github.com/mohammadmahdihasani)
 
