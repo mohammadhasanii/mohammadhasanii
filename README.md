@@ -1,19 +1,19 @@
-<h1 align="center">Hi 😂, I'm Mohammad Hasani</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Hasani</h1>
 <h3 align="center">I am currently trying to be a good backend developer (Node | sime times Golang)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🔭 I’m currently working on **Betterfeel**
+- 🔭 I’m currently working on **Bettercode.co**
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **Betterfeel**
+- 👯 I’m looking to collaborate on **Bettercode.co**
 
 - 🤝 I’m looking for help with **RavensAi**
 
-- 👨‍💻 All of my projects are available at [github.com/mohammadhasaniii](github.com/mohammadhasaniii)
+- 👨‍💻 All of my projects are available at [github.com/mohammadmahdihasani](github.com/mohammadmahdihasani)
 
 - 📝 I regularly write articles on [medium.com/@Mohammadhasani](medium.com/@Mohammadhasani)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **m789219@gmail.com**
 
-- ⚡ Fun fact **A good code is like a good woman. It doesn't exist at all**
+- ⚡ Fun fact **A good code is like a good woman. It doesn't exist at all (for fun)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,6 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/mohammadhasanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammadhasanii" height="30" width="40" /></a>
 <a href="https://twitter.com/code_mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_mohammad" height="30" width="40" /></a>
 <a href="https://medium.com/@mohammadhasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammadhasani" height="30" width="40" /></a>
 </p>
@@ -41,13 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhasanii&show_icons=true&locale=en" alt="mohammadhasanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanii&" alt="mohammadhasanii" /></p>
-
-<h3 align="left"> <a href="https://wakatime.com/@Mohammadhasani" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="code_mohammad" height="30" width="30" /></a> Wakatime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="mohammadhasanii" />
-
-</h3>
-
-<img align="center" src="https://wakatime.com/share/@Mohammadhasani/3e521fda-4252-4257-bfdf-94b6c5aaf3a3.svg" alt="mohammadhasanii" />
-
-
-
-
