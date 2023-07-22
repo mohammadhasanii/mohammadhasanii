@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mohammadmahdihasani](github.com/mohammadmahdihasani)
 
-- 📝 I regularly write articles on [medium.com/@Mohammadhasani](medium.com/@Mohammadhasani)
+- 📝 I regularly write articles on [medium.com/@Mohammadhasani](https://medium.com/@Mohammadhasani)
 
 - 💬 Ask me about **Node**
 
