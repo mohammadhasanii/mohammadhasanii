@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **RavensAi**
 
-- 👨‍💻 All of my projects are available at [github.com/mohammadmahdihasani](https://github.com/mohammadhasanii)
+- 👨‍💻 All of my projects are available at [github.com/mohammadmahdihasanii](https://github.com/mohammadhasanii)
 
 - 📝 I regularly write articles on [medium.com/@Mohammadhasani](https://medium.com/@Mohammadhasani)
 
