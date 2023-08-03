@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🔭 I’m currently working on **Bettercode.co**
+- 🔭 I’m currently working on **Bettercode.ir**
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **Bettercode.co**
+- 👯 I’m looking to collaborate on **Bettercode.ir**
 
 - 🤝 I’m looking for help with **RavensAi**
 
