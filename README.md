@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img width="30px"  src="https://emojis.slackmojis.com/emojis/images/1643514331/3036/gopher_dance.gif?1643514331 alt="code_mohammad" />, I'm Mohammad Hasani</h1>
-<h3 align="center">I am currently trying to be a good backend developer (Node | sometimes Golang)</h3>
+<h3 align="center">I am currently trying to be a good backend developer (Node | sometimes Scala)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🌐 My personal website  **mohammadhasanii.ir**
+- 🌐 My personal website  **https://mohammadhasanii.ir**
 
-- 🔭 I’m currently working on **Bettercode.ir**
+- 🔭 I’m currently working on **https://Bettercode.ir**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Scala**
 
-- 👯 I’m looking to collaborate on **Bettercode.ir**
+- 👯 I’m now focused on **https://Bettercode.ir**
 
 - 🤝 I’m looking for help with **RavensAi**
 
