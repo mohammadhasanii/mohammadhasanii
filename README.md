@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😂, I'm Mohammad Hasani</h1>
+<h1 align="center">Hi <img width="30px"  src="https://emojis.slackmojis.com/emojis/images/1643514331/3036/gopher_dance.gif?1643514331 alt="code_mohammad" />, I'm Mohammad Hasani</h1>
 <h3 align="center">I am currently trying to be a good backend developer (Node | sometimes Golang)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
@@ -20,6 +20,8 @@
 - 📝 I regularly write articles on [medium.com/@Mohammadhasani](https://medium.com/@Mohammadhasani)
 
 - 💬 Ask me about **Node**
+
+- ❤️ Interested in Scala language
 
 - 📫 How to reach me **m789219@gmail.com**
 
