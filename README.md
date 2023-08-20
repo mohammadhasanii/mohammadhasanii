@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **m789219@gmail.com**
 
-- ⚡ Fun fact **A good code is like a good woman. It doesn't exist at all (for fun)**
+- ⚡ Fun fact **Why is clean code like a unicorn ?? Because everyone talks about it, but the truth is, no one has really seen one! 😂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
