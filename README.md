@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img width="30px"  src="https://emojis.slackmojis.com/emojis/images/1643514331/3036/gopher_dance.gif?1643514331 alt="code_mohammad" />, I'm Mohammad Hasani</h1>
-<h3 align="center">I am currently trying to be a good backend developer (Node | sometimes Scala)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
+<h1 align="center">Hey there <img width="30px"  src="https://emojis.slackmojis.com/emojis/images/1643514331/3036/gopher_dance.gif?1643514331 alt="code_mohammad" />, I'm Mohammad Hasani</h1>
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
+
+- 🧠 My belief **In the realm of code, every line is a cipher that unveils a canvas for unraveling creativity and transformation. Each snippet of instructions is a piece of a larger puzzle that, when combined, forms a complete and captivating picture. Behind every line of code lies a realm of abstractions and intellectual ideas that embody the essence of science and art.Like a seasoned coder, I perceive the world from alternative angles. From the tiniest events to grand phenomena, everything can be seen as a pattern or a wellspring of inspiration. With harmony and interconnectedness among elements, the world resembles a complex programming system that, through collaboration and interaction, yields greater capabilities and new values.  With every line of code I write, I contribute to bringing about transformations in the world, envisioning a better world for all through the art of coding**
 - 🌐 My personal website  **https://mohammadhasanii.ir**
 - 😊You can support me so that I can publish more cool work **https://patreon.com/MohammadHasanii** Thanks ❤️
 - 🔭 I’m currently working on **https://Bettercode.ir**
