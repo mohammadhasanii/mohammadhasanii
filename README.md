@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mohammad Hasani</h1>
-<h3 align="center">A crazy backend developer [Node , Rust ]</h3>
+<h1 align="center">Hi 👋,I'm Mohammad Hasani, a crazy Backend-dev [Node , Rust ]</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
 
