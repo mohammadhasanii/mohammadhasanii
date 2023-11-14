@@ -9,15 +9,15 @@
 
 - 🌐 My personal website **https://mohammadhasanii.ir**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 
-- 😊You can support me so that I can publish more cool work **https://patreon.com/MohammadHasanii**
+- 😊You can support me so that I can publish more cool work [Patreon](https://patreon.com/MohammadHasanii)
 
-- ❤️ Maintainer and developer **https://boookito.ir**
+- ❤️ Maintainer and developer [Boookito](https://boookito.ir)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadhasanii?tab=repositories](https://github.com/mohammadhasanii?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mohammadhasanii?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@Mohammadhasani](https://medium.com/@Mohammadhasani)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Mohammadhasani)
 
 - 💬 Ask me about **Node**
 
