@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🧠 My passion **For me, backend development is not merely about writing lines of code; it's an art form. It's about architecting systems that withstand the test of time, balancing complexity and simplicity, and finding beauty in the harmony of components. It's about shaping the backbone of applications, enabling seamless interactions, and empowering businesses to thrive.**
+- 🧠 My passion : **For me, backend development is not merely about writing lines of code; it's an art form. It's about architecting systems that withstand the test of time, balancing complexity and simplicity, and finding beauty in the harmony of components. It's about shaping the backbone of applications, enabling seamless interactions, and empowering businesses to thrive.**
 
 - 🌐 My personal website **https://mohammadhasanii.ir**
 
