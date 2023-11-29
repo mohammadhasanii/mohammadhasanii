@@ -1,6 +1,7 @@
 
 <h1 align="center">I'm Mohammad, a Backend Developer proficient in Node & Rust</h1>
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
