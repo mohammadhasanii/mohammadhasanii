@@ -14,7 +14,7 @@
 
 - 😊You can support me so that I can publish more cool work [Patreon](https://patreon.com/MohammadHasanii)
 
-- ❤️ Maintainer and developer [Bettercode](https://bettercode.ir)
+- ❤️ CEO & Software Engineer at [Bettercode](https://bettercode.ir)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mohammadhasanii?tab=repositories)
 
