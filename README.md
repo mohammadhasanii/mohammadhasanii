@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🧠 My passion : **I have been working in the field of software engineering for 4 years and this work is sacred to me. I launched Bettercode on April 23, 2023 and then RavensAi on February 28, 2024, which is very valuable to me. My passion lies in working on these two projects and every day I develop them with all my energy and seek to create value. Software engineering is not just a job for me. This is a love, a reason for my existence in this world.**
+- 🧠 My passion : **I have been working in the field of software engineering for 5 years and this work is sacred to me. I launched Bettercode on April 23, 2023 and then RavensAi on February 28, 2024, which is very valuable to me. My passion lies in working on these two projects and every day I develop them with all my energy and seek to create value. Software engineering is not just a job for me. This is a love, a reason for my existence in this world.**
 
 - 🌐 My personal website **https://mohammadhasanii.ir**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **m789219@gmail.com**
 
-- ⚡ Fun fact **"Why did the clean code developer always carry a broom? Because they knew how to sweep bugs under the rug!" 🧹🐛**
+- ⚡ Fun fact **"Do you know why programmers prefer dark mode? Because light attracts insects! 🐛 🤣 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
