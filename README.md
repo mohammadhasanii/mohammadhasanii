@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/code_mohammad" target="blank"><img src="https://img.shields.io/twitter/follow/code_mohammad?logo=twitter&style=for-the-badge" alt="code_mohammad" /></a> </p>
 
-- 🧠 My passion : **I have been working in the field of software engineering for 5 years and this work is sacred to me. I launched Bettercode on April 23, 2023 and then RavensAi on February 28, 2024, which is very valuable to me. My passion lies in working on these two projects and every day I develop them with all my energy and seek to create value. Software engineering is not just a job for me. This is a love, a reason for my existence in this world.**
+- 🧠 My Passion: 
+ **Software engineering has been my world for the past five years—more than just a profession, it's a calling. On April 23, 2023, I launched Bettercode, followed by Pinoqio-Ai on March 31, 2025, a service dedicated to scam detection. These projects are deeply meaningful to me, and every day, I pour my energy into refining and expanding them, driven by a relentless pursuit of value creation.
+Even when exhaustion sets in, and the road feels tough, software engineering is what keeps me going—it gives me hope, purpose, and the strength to push forward. For me, this isn’t just about writing code—it’s a love, a reason to exist, and a fire that never fades.**
 
 
 🌍 **Personal Website:** [mohammadhasanii.ir](https://mohammadhasanii.ir)  
@@ -33,9 +35,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/code_mohammad" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.svg" alt="code_mohammad" height="30" width="40" /></a>
-<a href="https://medium.com/@mohammadhasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammadhasani" height="30" width="40" /></a>
+<a href="https://twitter.com/code_mohammad" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.svg" alt="code_mohammad" height="40" width="40" /></a>
+<a href="https://medium.com/@mohammadhasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammadhasani" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-mahdi-hasani-4bb47b344" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="code_mohammad" height="40" width="40" />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
