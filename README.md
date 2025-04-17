@@ -38,7 +38,7 @@ Even when exhaustion sets in, and the road feels tough, software engineering is 
 <p align="left">
 <a href="https://twitter.com/code_mohammad" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.svg" alt="code_mohammad" height="40" width="40" /></a>
 <a href="https://medium.com/@mohammadhasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammadhasani" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-mahdi-hasani-4bb47b344" target="_blank">
+<a href="https://www.linkedin.com/in/mohammadhasanii" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="code_mohammad" height="40" width="40" />
 </a>
 </p>
