@@ -2,7 +2,7 @@
 <h2 align="center">I'm Mohammad, a Software Engineer who writes code like a poet and debugs like a detective. If it’s complex, I simplify it. If it’s slow, I make it fly</h2>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<img  width="100%" loading="lazy" src="/Raventure.png" />
+<img  width="100%" loading="lazy" src="/Deerly-Labs.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
 
