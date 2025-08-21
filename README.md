@@ -139,6 +139,8 @@ echo "💪 Every bug is a lesson, every feature is a conquest"
 
 <div align="center">
 
+**[![wakatime](https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg)](https://wakatime.com/@Mohammadhasani)**
+
 ![WakaTime Activity](https://wakatime.com/share/@Mohammadhasani/eb074acc-ab2c-4c3d-af6a-d18a0fbb0cbe.svg)
 
 </div>
