@@ -1,5 +1,7 @@
 # Mohammad Hasanii
-## Software Engineer | Open Source Maintainer | Code Commander
+
+<img src="https://abs.twimg.com/responsive-web/client-web/1f1ee-1f1f7.4a41f56a.svg" width="25" height="25" style="vertical-align:middle"> Software Engineer | Open Source Maintainer | Code Commander
+
 
 <img  width="100%" loading="lazy" src="/Black Liquid Minimalist Daily Quotes LinkedIn Banner.png" />
 
